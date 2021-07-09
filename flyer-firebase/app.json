@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "twilio",
-    "slug": "twilio",
+    "name": "flyer-firebase",
+    "slug": "flyer-firebase",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -25,7 +25,9 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.kmnowak.mobile_chat_apps_pocs_flyer",
+      "googleServicesFile": "./google-services.json"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
